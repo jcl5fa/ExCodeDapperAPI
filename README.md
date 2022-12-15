@@ -10,7 +10,7 @@ To setup the application you'll need to create a SQLExpress database with tables
 All of the scripts required for setup are included in the **Setup** folder and should be ran in Microsoft SQL Server Management Studio.
 
 ## Swagger View
-![Swagger View](/READMEIMG/Swagger.png)
+![Swagger View](/READMEIMG/Swagger.PNG)
 
 ## Department View
 
